@@ -9,12 +9,6 @@ Built with OpenCV, MediaPipe, NumPy, PyAutoGUI, and Serial communication.
 
 ---
 
-## 🎥 Demo Video
-
-Watch the demo here: [Link to your demo_video.mp4 or YouTube]
-
----
-
 ## 📦 Requirements
 
 Install all dependencies:
